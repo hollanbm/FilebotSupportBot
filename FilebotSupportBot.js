@@ -16,7 +16,7 @@ client.on('message', msg =>
 	}
 	else if(msg.content === prefix + 'help')
 	{
-		msg.channel.send('How to request help: https://www.filebot.net/forums/viewtopic.php?f=5&t=1868')
+		msg.channel.send('How to request help: https://www.filebot.net/forums/viewtopic.php?f=5&t=1868');
 	}
 	else if(msg.content === prefix + 'noemail')
 	{
@@ -34,11 +34,11 @@ In this case, please PM @rednoah your name and @gmail.com address, and ideally y
 	}
 	else if(msg.content === prefix + 'refund')
 	{
-		msg.channel.send('How to request a refund: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118')
+		msg.channel.send('How to request a refund: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118');
 	}
 	else if(msg.content === prefix + 'plex' || msg.content === prefix + 'kodi')
 	{
-		msg.channel.send('Plex/Kodi Naming Schemes: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118')
+		msg.channel.send('Plex/Kodi Naming Schemes: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118');
 	}
 });
 
