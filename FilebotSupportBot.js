@@ -36,6 +36,10 @@ In this case, please PM @rednoah your name and @gmail.com address, and ideally y
 	{
 		msg.channel.send('How to request a refund: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118')
 	}
+	else if(msg.content === prefix + 'plex' || msg.content === prefix + 'kodi')
+	{
+		msg.channel.send('Plex/Kodi Naming Schemes: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118')
+	}
 });
 
 client.login(process.env.CLIENT_TOKEN);
