@@ -5,8 +5,6 @@ prefix = process.env.PREFIX
 
 client.once('ready', () => {
 	console.log('Ready!');
-	rednoah = `<@${client.guild.members.find(m => m.user.username === 'rednoah').user.id}>`;
-	console.log(rednoah);
 });
 
 
