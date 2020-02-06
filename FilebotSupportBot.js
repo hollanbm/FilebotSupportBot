@@ -32,6 +32,10 @@ In this case, please PM @rednoah your name and @gmail.com address, and ideally y
 (e.g. P1234567) if possible, so @rednoah can manually resend your license.\
 ')
 	}
+	else if(msg.content === prefix + 'refund')
+	{
+		msg.channel.send('How to request a refund: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118')
+	}
 });
 
 client.login(process.env.CLIENT_TOKEN);
