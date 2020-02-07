@@ -40,6 +40,10 @@ In this case, please PM @rednoah your name and @gmail.com address, and ideally y
 	{
 		msg.channel.send('Plex/Kodi Naming Schemes: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118');
 	}
+	else if(msg.content === prefix + 'amc')
+	{
+		msg.channel.send('FileBot Automated Media Center: https://www.filebot.net/amc.html');
+	}
 });
 
 client.login(process.env.CLIENT_TOKEN);
