@@ -48,6 +48,10 @@ In this case, please PM @rednoah your name and @gmail.com address, and ideally y
 	{
 		msg.channel.send('TheTVDB v3 (everything is temporarily broken): https://www.filebot.net/forums/viewtopic.php?f=8&t=11254');
 	}
+	else if(msg.content === prefix + 'faq')
+	{
+		msg.channel.send('FileBot FAQ: https://www.filebot.net/forums/viewtopic.php?f=3&t=7');
+	}
 });
 
 client.login(process.env.CLIENT_TOKEN);
