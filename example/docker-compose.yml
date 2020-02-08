@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+
+  filebotsupportbot:
+    image: filebotsupportbot
+    restart: unless-stopped
+    environment:
+      - PREFIX=!
+      - CLIENT_TOKEN=<Discord bot client token, found in the developers applicaiton panel>
