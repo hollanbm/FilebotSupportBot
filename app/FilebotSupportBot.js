@@ -4,6 +4,7 @@ const client = new Discord.Client();
 prefix = process.env.PREFIX
 
 var fs = require('fs');
+//this is synchronous, if list gets too large, switch to async
 var commands = JSON.parse(fs.readFileSync('commands.json', 'utf8'));
 
 client.once('ready', () => 
