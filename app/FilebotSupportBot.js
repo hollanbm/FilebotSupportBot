@@ -19,6 +19,10 @@ client.on('message', msg =>
 	{
 		msg.channel.send(item.output);
 	}
+	else if(msg.content === prefix + 'commands')
+	{
+		msg.channel.send(commands.map(item => prefix+item.cmd).sort());
+	}
 });
 
 client.login(process.env.CLIENT_TOKEN);
