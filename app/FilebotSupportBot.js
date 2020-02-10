@@ -12,16 +12,17 @@ client.once('ready', () =>
 	console.log('Ready!');
 });
 
-client.on('message', msg => 
+client.on('message', message => 
 {
-	var item = commands.find(item => prefix + item.cmd === msg.content);
+	var item = commands.find(item => prefix + item.cmd === message.content);
 	if(item)
 	{
-		msg.channel.send(item.output);
+		message.channel.send(item.output);
 	}
-	else if(message.isMentioned(client.user) || msg.content === prefix + 'commands')
+	else if(message.isMentioned(client.user) || message.content === prefix + 'commands')
 	{
-		msg.channel.send(commands.map(item => prefix+item.cmd).sort());
+		message.channel.send(commands.map(item => prefix+item.cmd).sort());
+		console.log("mentioned");
 	}
 });
 
