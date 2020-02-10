@@ -42,6 +42,10 @@
     {
       "cmd": "synology",
       "output": "Installing FileBot on Synology NAS: https://www.filebot.net/forums/viewtopic.php?t=1802"
+    },
+    {
+      "cmd": "xattr",
+      "output": "Metadata and Extended Attributes: https://www.filebot.net/forums/viewtopic.php?t=324"
     }
 
 ]
