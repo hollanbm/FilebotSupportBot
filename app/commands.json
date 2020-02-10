@@ -32,10 +32,6 @@
       "output": "TheTVDB v3 (everything is temporarily broken): https://www.filebot.net/forums/viewtopic.php?f=8&t=11254"
     },
     {
-      "cmd": "kodi",
-      "output": "Kodi Naming Scheme: https://www.filebot.net/forums/viewtopic.php?t=4116"
-    },
-    {
       "cmd": "faq",
       "output": "FileBot FAQ: https://www.filebot.net/forums/viewtopic.php?f=3&t=7"
     },
