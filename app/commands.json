@@ -38,5 +38,10 @@
     {
       "cmd": "faq",
       "output": "FileBot FAQ: https://www.filebot.net/forums/viewtopic.php?f=3&t=7"
+    },
+    {
+      "cmd": "synology",
+      "output": "Installing FileBot on Synology NAS: https://www.filebot.net/forums/viewtopic.php?t=1802"
     }
+
 ]
