@@ -58,10 +58,14 @@
     {
       "cmd": "opensubtitles",
       "output": "Set OpenSubtitles Account: https://www.filebot.net/forums/viewtopic.php?f=3&t=228"
+    },
+    {
+      "cmd": "beta",
+      "output": "Latest Beta Revisions and Release Candidates: https://www.filebot.net/forums/viewtopic.php?f=7&t=1609"
+    },
+    {
+      "cmd": "releasenotes",
+      "output": "Release Notes: https://github.com/filebot/docs/blob/master/CHANGES.md"
     }
-
-    
-
-    
 
 ]
