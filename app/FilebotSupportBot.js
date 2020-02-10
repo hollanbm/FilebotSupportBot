@@ -19,7 +19,7 @@ client.on('message', msg =>
 	{
 		msg.channel.send(item.output);
 	}
-	else if(msg.content === prefix + 'commands')
+	else if(message.isMentioned(client.user) || msg.content === prefix + 'commands')
 	{
 		msg.channel.send(commands.map(item => prefix+item.cmd).sort());
 	}
