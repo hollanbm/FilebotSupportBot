@@ -19,10 +19,9 @@ client.on('message', message =>
 	{
 		message.channel.send(item.output);
 	}
-	else if(message.isMentioned(client.user) || message.content === prefix + 'commands')
+	else if(message.isMentioned(client.user))
 	{
-		message.channel.send(commands.map(item => prefix+item.cmd).sort());
-		console.log("mentioned");
+		message.channel.send(commands.map(item => prefix+item.cmd).sort().join(", "));
 	}
 });
 
