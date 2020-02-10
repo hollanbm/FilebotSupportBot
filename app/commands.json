@@ -70,6 +70,11 @@
     {
       "cmd": "conditionals",
       "output": "Conditional Structures (if-then-else): https://github.com/filebot/docs/blob/master/CHANGES.md"
+    },
+    {
+      "cmd": "formats",
+      "output": "How about sharing our format expressions?: https://www.filebot.net/forums/viewtopic.php?f=5&t=2"
     }
+    
 
 ]
