@@ -54,7 +54,13 @@
     {
       "cmd": "blacklsit",
       "output": "Add Blacklisted Terms and Improve Movie / Series Detection: https://www.filebot.net/forums/viewtopic.php?f=3&t=359\n\nExclude Blacklist & Series-Mappings: https://www.filebot.net/forums/viewtopic.php?f=3&t=360"
+    },
+    {
+      "cmd": "opensubtitles",
+      "output": "Set OpenSubtitles Account: https://www.filebot.net/forums/viewtopic.php?f=3&t=228"
     }
+
+    
 
     
 
