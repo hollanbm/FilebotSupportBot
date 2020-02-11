@@ -32,7 +32,7 @@ client.on('message', message =>
 	}
 	else if(message.isMentioned(client.user))
 	{
-		message.channel.send("List of valid commands:\n" + commands.map(item => "`" + prefix + item.cmd).sort().join("` ") + "`");
+		message.channel.send("List of valid commands:\n" + commands.map(item => "`" + prefix+item.cmd).sort().join("` ") + "`");
 	}
 });
 
