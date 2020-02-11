@@ -70,6 +70,14 @@
     {
       "cmd": "formats",
       "output": "How about sharing our format expressions?: https://www.filebot.net/forums/viewtopic.php?f=5&t=2"
+    },
+    {
+      "cmd": "linux",
+      "output": "How to install FileBot on Linux / FreeBSD / Solaris / any Unix OS: https://www.filebot.net/forums/viewtopic.php?t=6057"
+    },
+    {
+      "cmd": "ubuntu,debian",
+      "output": "Debian package: https://www.filebot.net/forums/viewtopic.php?f=11&t=6028\nSNAP Package: https://www.filebot.net/forums/viewtopic.php?f=11&t=5984"
     }
     
 

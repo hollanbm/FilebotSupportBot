@@ -14,14 +14,25 @@ client.once('ready', () =>
 
 client.on('message', message => 
 {
-	var item = commands.find(item => prefix + item.cmd === message.content);
+	/**
+	 * Allows for a single output, to have multiple commands - useful when multiple keywords are applicable
+	 * 
+	 * commands is an array of objects, with a cmd string and a matching output response
+	 * if that cmd string contains part of the message (minus the prefix)
+	 * split the string on the comma to make an item
+	 * then check that item for an exact match
+	 */
+	var item = commands.find(obj => 
+		obj.cmd.includes(message.content.replace(prefix,"")) && 
+		obj.cmd.split(",").find(item => prefix + item === message.content));
+
 	if(item)
 	{
 		message.channel.send(item.output);
 	}
 	else if(message.isMentioned(client.user))
 	{
-		message.channel.send("List of valid commands:\n" + commands.map(item => "`" + prefix+item.cmd).sort().join("` ") + "`");
+		message.channel.send("List of valid commands:\n" + commands.map(item => "`" + prefix + item.cmd).sort().join("` ") + "`");
 	}
 });
 
