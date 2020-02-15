@@ -1,0 +1,86 @@
+[
+    {
+      "cmd": "license",
+      "output": "For help activating, recovering, or installing your license: https://www.filebot.net/forums/viewtopic.php?f=8&t=6121"
+    },
+    {
+      "cmd": "help",
+      "output": "How to request help: https://www.filebot.net/forums/viewtopic.php?f=5&t=1868"
+    },
+    {
+      "cmd": "refund",
+      "output": "How to request a refund: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118"
+    },
+    {
+      "cmd": "noemail",
+      "output": "After purchasing FileBot via Paddle, you will receive 2 emails. The first email from help@paddle.com will contain your license as plain text. The second email from license@filebot.net will contain your license as file attachment.\n\nIf you did not receive 2 emails, please check your Spam folder.\n\nIf you have received no email at all then you have likely mistyped your email address or your mail server is rejecting emails. In this case, please PM @rednoah your name and @gmail.com address, and ideally your order number (e.g. P1234567) if possible, so @rednoah can manually resend your license."
+    },
+    {
+      "cmd": "plex",
+      "output": "Plex Naming Scheme: https://www.filebot.net/forums/viewtopic.php?t=4116"
+    },
+    {
+      "cmd": "kodi",
+      "output": "Kodi Naming Scheme: https://www.filebot.net/forums/viewtopic.php?t=4116"
+    },
+    {
+      "cmd": "amc",
+      "output": "FileBot Automated Media Center: https://www.filebot.net/amc.html"
+    },
+    {
+      "cmd": "tvdb",
+      "output": "TheTVDB v3 (everything is temporarily broken): https://www.filebot.net/forums/viewtopic.php?f=8&t=11254"
+    },
+    {
+      "cmd": "faq",
+      "output": "FileBot FAQ: https://www.filebot.net/forums/viewtopic.php?f=3&t=7"
+    },
+    {
+      "cmd": "synology",
+      "output": "Installing FileBot on Synology NAS: https://www.filebot.net/forums/viewtopic.php?t=1802"
+    },
+    {
+      "cmd": "xattr",
+      "output": "Metadata and Extended Attributes: https://www.filebot.net/forums/viewtopic.php?t=324"
+    },
+    {
+      "cmd": "batch",
+      "output": "Batch Rename any type of file: https://www.filebot.net/forums/viewtopic.php?f=3&t=2072"
+    },
+    {
+      "cmd": "blacklsit",
+      "output": "Add Blacklisted Terms and Improve Movie / Series Detection: https://www.filebot.net/forums/viewtopic.php?f=3&t=359\n\nExclude Blacklist & Series-Mappings: https://www.filebot.net/forums/viewtopic.php?f=3&t=360"
+    },
+    {
+      "cmd": "opensubtitles",
+      "output": "Set OpenSubtitles Account: https://www.filebot.net/forums/viewtopic.php?f=3&t=228"
+    },
+    {
+      "cmd": "beta",
+      "output": "Latest Beta Revisions and Release Candidates: https://www.filebot.net/forums/viewtopic.php?f=7&t=1609"
+    },
+    {
+      "cmd": "releasenotes",
+      "output": "Release Notes: https://github.com/filebot/docs/blob/master/CHANGES.md"
+    },
+    {
+      "cmd": "conditionals",
+      "output": "Conditional Structures (if-then-else): https://github.com/filebot/docs/blob/master/CHANGES.md"
+    },
+    {
+      "cmd": "formats",
+      "output": "How about sharing our format expressions?: https://www.filebot.net/forums/viewtopic.php?f=5&t=2"
+    },
+    {
+      "cmd": "linux",
+      "output": "How to install FileBot on Linux / FreeBSD / Solaris / any Unix OS: https://www.filebot.net/forums/viewtopic.php?t=6057"
+    },
+    {
+      "cmd": "ubuntu",
+      "output": "Debian package: https://www.filebot.net/forums/viewtopic.php?f=11&t=6028\nSNAP Package: https://www.filebot.net/forums/viewtopic.php?f=11&t=5984"
+    },
+    {
+      "cmd": "debian",
+      "output": "Debian package: https://www.filebot.net/forums/viewtopic.php?f=11&t=6028\nSNAP Package: https://www.filebot.net/forums/viewtopic.php?f=11&t=5984"
+    }
+]
