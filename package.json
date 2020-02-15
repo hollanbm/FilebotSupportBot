@@ -2,13 +2,13 @@
   "name": "filebot-supportbot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app/index.js",
   "engines": {
     "node": "13.8.x",
     "npm": "*"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node app/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

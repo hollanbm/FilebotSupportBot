@@ -5,7 +5,7 @@ prefix = process.env.PREFIX
 
 var fs = require('fs');
 //this is synchronous, if list gets too large, switch to async
-var commands = JSON.parse(fs.readFileSync('commands.json', 'utf8'));
+var commands = JSON.parse(fs.readFileSync('app/commands.json', 'utf8'));
 
 client.once('ready', () => 
 {
