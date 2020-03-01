@@ -86,5 +86,9 @@
     {
       "cmd": "@file",
       "output": "@file syntax for reading cmdline args from text files: https://www.filebot.net/forums/viewtopic.php?t=3244"
+    },
+    {
+      "cmd": "cmdline",
+      "output": "Cmdline and argument passing: https://www.filebot.net/forums/viewtopic.php?t=1899"
     }
 ]
