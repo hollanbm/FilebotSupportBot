@@ -82,5 +82,9 @@
     {
       "cmd": "debian",
       "output": "Debian package: https://www.filebot.net/forums/viewtopic.php?f=11&t=6028\nSNAP Package: https://www.filebot.net/forums/viewtopic.php?f=11&t=5984"
+    },
+    {
+      "cmd": "@file",
+      "output": "@file syntax for reading cmdline args from text files: https://www.filebot.net/forums/viewtopic.php?t=3244"
     }
 ]
