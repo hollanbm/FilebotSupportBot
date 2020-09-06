@@ -90,5 +90,9 @@
     {
       "cmd": "cmdline",
       "output": "Cmdline and argument passing: https://www.filebot.net/forums/viewtopic.php?t=1899"
+    },
+    {
+      "cmd": "shelldebug",
+      "output": "Shell Script Debugging for Beginners: https://www.filebot.net/forums/viewtopic.php?t=3067"
     }
 ]
