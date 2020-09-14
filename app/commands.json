@@ -94,5 +94,9 @@
     {
       "cmd": "shelldebug",
       "output": "Shell Script Debugging for Beginners: https://www.filebot.net/forums/viewtopic.php?t=3067"
+    },
+    {
+      "cmd": "artwork",
+      "output": "Movie Artwork: https://www.filebot.net/forums/viewtopic.php?f=4&t=5#p205\n\nSeries Artwork: https://www.filebot.net/forums/viewtopic.php?f=4&t=5#p204"
     }
 ]
