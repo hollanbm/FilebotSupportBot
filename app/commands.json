@@ -102,5 +102,9 @@
     {
       "cmd": "strict",
       "output": "Match Mode: Oppurtunistic vs Strict: https://www.filebot.net/forums/viewtopic.php?t=4695"
+    },
+    {
+      "cmd": "groups",
+      "output": "Release Groups {group}: https://www.filebot.net/forums/viewtopic.php?t=4"
     }
 ]
