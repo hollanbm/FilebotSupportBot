@@ -98,5 +98,9 @@
     {
       "cmd": "artwork",
       "output": "Movie Artwork: https://www.filebot.net/forums/viewtopic.php?f=4&t=5#p205\nSeries Artwork: https://www.filebot.net/forums/viewtopic.php?f=4&t=5#p204"
+    },
+    {
+      "cmd": "strict",
+      "output": "Match Mode: Oppurtunistic vs Strict: https://www.filebot.net/forums/viewtopic.php?t=4695"
     }
 ]
