@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/hollanbm/FilebotSupportBot#readme",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "string-similarity": "^4.0.2"
   }
 }
