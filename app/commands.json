@@ -69,7 +69,7 @@
     },
     {
       "cmd": "formats",
-      "output": "How about sharing our format expressions?: https://www.filebot.net/forums/viewtopic.php?f=5&t=2"
+      "output": "Format Expresssions: https://www.filebot.net/naming.html\nPredefined format expressions: https://www.filebot.net/forums/viewtopic.php?f=5&t=2"
     },
     {
       "cmd": "linux",
