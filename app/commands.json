@@ -106,5 +106,13 @@
     {
       "cmd": "groups",
       "output": "Release Groups {group}: https://www.filebot.net/forums/viewtopic.php?t=4"
+    },
+    {
+      "cmd": "evaluate",
+      "output": "How do I evaluate FileBot?: https://www.filebot.net/forums/viewtopic.php?t=11790"
+    },
+    {
+      "cmd": "freetrial",
+      "output": "How do I evaluate FileBot?: https://www.filebot.net/forums/viewtopic.php?t=11790"
     }
 ]
