@@ -118,5 +118,9 @@
     {
       "cmd": "revert",
       "output": "Revert files via the internal History: https://www.filebot.net/forums/viewtopic.php?t=12133"
+    },
+    {
+      "cmd": "featurerequest",
+      "output": "Feature Requests: https://www.filebot.net/forums/viewforum.php?f=6"
     }
 ]
