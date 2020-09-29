@@ -114,5 +114,9 @@
     {
       "cmd": "freetrial",
       "output": "How do I evaluate FileBot?: https://www.filebot.net/forums/viewtopic.php?t=11790"
+    },
+    {
+      "cmd": "revert",
+      "output": "Revert files via the internal History: https://www.filebot.net/forums/viewtopic.php?t=12133"
     }
 ]
