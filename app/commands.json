@@ -122,5 +122,9 @@
     {
       "cmd": "featurerequest",
       "output": "Feature Requests: https://www.filebot.net/forums/viewforum.php?f=6"
+    },
+    {
+      "cmd": "tips",
+      "output": "Tips, Tricks and Tutorials: https://www.filebot.net/forums/viewforum.php?f=3"
     }
 ]
