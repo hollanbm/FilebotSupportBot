@@ -48,7 +48,7 @@
       "output": "Batch Rename any type of file: https://www.filebot.net/forums/viewtopic.php?f=3&t=2072"
     },
     {
-      "cmd": "blacklsit",
+      "cmd": "blacklist",
       "output": "Add Blacklisted Terms and Improve Movie / Series Detection: https://www.filebot.net/forums/viewtopic.php?f=3&t=359\n\nExclude Blacklist & Series-Mappings: https://www.filebot.net/forums/viewtopic.php?f=3&t=360"
     },
     {
