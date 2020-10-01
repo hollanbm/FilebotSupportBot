@@ -73,7 +73,7 @@
     },
     {
       "cmd": "linux",
-      "output": "How to install FileBot on Linux / FreeBSD / Solaris / any Unix OS: https://www.filebot.net/forums/viewtopic.php?t=6057"
+      "output": "How to install FileBot (portable) on Linux / FreeBSD / Solaris / any Unix OS: https://www.filebot.net/forums/viewtopic.php?t=6057"
     },
     {
       "cmd": "ubuntu",
