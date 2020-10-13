@@ -126,5 +126,9 @@
     {
       "cmd": "tips",
       "output": "Tips, Tricks and Tutorials: https://www.filebot.net/forums/viewforum.php?f=3"
+    },
+    {
+      "cmd": "interactive",
+      "output": "Console-Interactive-Mode: https://www.filebot.net/forums/viewtopic.php?t=4398"
     }
 ]
