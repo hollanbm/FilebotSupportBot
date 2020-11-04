@@ -131,4 +131,9 @@
       "cmd": "interactive",
       "output": "Console-Interactive-Mode: https://www.filebot.net/forums/viewtopic.php?t=4398"
     }
+    ,
+    {
+      "cmd": "sysinfo",
+      "output": "GUI: Press F5 and click the infomation symbol\nCLI: `filebot -script fn:sysinfo`"
+    }
 ]
