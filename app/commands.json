@@ -139,4 +139,9 @@
       "cmd": "abuse",
       "output": "License Error: Banned due to abuse: https://www.filebot.net/forums/viewtopic.php?t=9594"
     }
+    ,{
+      "cmd": "filter",
+      "output": "How to process only specific kinds of files?: https://www.filebot.net/forums/viewtopic.php?t=4222"
+    }
+    
 ]
