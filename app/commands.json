@@ -1,7 +1,11 @@
 [
     {
-      "cmd": "license",
-      "output": "For help activating, recovering, or installing your license: https://www.filebot.net/forums/viewtopic.php?f=8&t=6121"
+      "cmd": "activate",
+      "output": "> After purchasing FileBot via Paddle, you will receive 2 emails. The first email from help@paddle.com will contain your license as plain text. The second email from license@filebot.net will contain your license as file attachment. Either one can be used to activate FileBot.\n\nhttps://www.filebot.net/activate.html"
+    },
+    {
+      "cmd": "recover",
+      "output": "> If you want to recover a lost license key or a never received license key, please contact Paddle (our payment processor) with your name, email and payment details so they can look up your order and resend your license confirmation. If you have multiple purchases under your email address, then you must include payment details so that they can look up your most recent order.\n\nhttps://www.filebot.net/activate.html"
     },
     {
       "cmd": "help",
