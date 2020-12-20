@@ -9,11 +9,11 @@
     },
     {
       "cmd": "help",
-      "output": "How to request help: https://www.filebot.net/forums/viewtopic.php?f=5&t=1868"
+      "output": "How to request help: https://www.filebot.net/help.html"
     },
     {
       "cmd": "refund",
-      "output": "How to request a refund: https://www.filebot.net/forums/viewtopic.php?f=8&t=6118"
+      "output": "How to request a refund: https://www.filebot.net/refund.html"
     },
     {
       "cmd": "noemail",
