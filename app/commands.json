@@ -17,7 +17,7 @@
     },
     {
       "cmd": "noemail",
-      "output": "> If you have received no email at all then you have likely mistyped your email address or your mail server is rejecting emails. In this case, please contact Paddle (our payment processor) with your payment details so they can help you look up your order number and resend your license.\nhttps://www.filebot.net/activate.html"
+      "output": "> If you have received no email at all then you have likely mistyped your email address or your mail server is rejecting emails. In this case, please contact Paddle with your payment details so they can help you look up your order number and resend your license.\n📘 https://www.filebot.net/activate.html"
     },
     {
       "cmd": "plex",
@@ -29,7 +29,7 @@
     },
     {
       "cmd": "amc",
-      "output": "FileBot Automated Media Center: https://www.filebot.net/amc.html"
+      "output": "Automated Media Center: https://www.filebot.net/amc.html"
     },
     {
       "cmd": "tvdb",
@@ -37,23 +37,23 @@
     },
     {
       "cmd": "faq",
-      "output": "FileBot FAQ: https://www.filebot.net/forums/viewtopic.php?f=3&t=7"
+      "output": "FAQ: https://www.filebot.net/manual.html"
     },
     {
       "cmd": "synology",
-      "output": "Installing FileBot on Synology NAS: https://www.filebot.net/forums/viewtopic.php?t=1802"
+      "output": "FileBot on Synology NAS: https://www.filebot.net/linux/syno.html"
     },
     {
       "cmd": "xattr",
-      "output": "Metadata and Extended Attributes: https://www.filebot.net/forums/viewtopic.php?t=324"
+      "output": "Metadata and Extended Attributes: https://www.filebot.net/help/xattr.html"
     },
     {
       "cmd": "batch",
-      "output": "Batch Rename any type of file: https://www.filebot.net/forums/viewtopic.php?f=3&t=2072"
+      "output": "Plain File Mode: https://www.filebot.net/forums/viewtopic.php?t=2072"
     },
     {
       "cmd": "blacklist",
-      "output": "Add Blacklisted Terms and Improve Movie / Series Detection: https://www.filebot.net/forums/viewtopic.php?f=3&t=359\n\nExclude Blacklist & Series-Mappings: https://www.filebot.net/forums/viewtopic.php?f=3&t=360"
+      "output": "Add Exclude Terms to Improve Movie / Series Auto-Detection:\nhttps://www.filebot.net/forums/viewtopic.php?t=359\n\nExclude Blacklist & Series-Mappings:\nhttps://www.filebot.net/forums/viewtopic.php?t=360"
     },
     {
       "cmd": "opensubtitles",
