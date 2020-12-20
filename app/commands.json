@@ -137,7 +137,7 @@
     },
     {
       "cmd": "sysinfo",
-      "output": "> GUI: Press `F5` and then click the ℹ️ information symbol\n> CLI: Call `filebot -script fn:sysinfo`\n📘 https://www.filebot.net/activate.html"
+      "output": "> GUI: Press `F5` and then click the ℹ️ information symbol\n> CLI: Call `filebot -script fn:sysinfo`\n📘 https://www.filebot.net/forums/viewtopic.php?t=1868"
     },
     {
       "cmd": "abuse",
