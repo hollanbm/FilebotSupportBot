@@ -13,7 +13,7 @@
     },
     {
       "cmd": "noemail",
-      "output": "After purchasing FileBot via Paddle, you will receive 2 emails. The first email from help@paddle.com will contain your license as plain text. The second email from license@filebot.net will contain your license as file attachment.\n\nIf you did not receive 2 emails, please check your Spam folder.\n\nIf you have received no email at all then you have likely mistyped your email address or your mail server is rejecting emails. In this case, please PM @rednoah your name and @gmail.com address, and ideally your order number (e.g. P1234567) if possible, so @rednoah can manually resend your license."
+      "output": "If you have received no email at all then you have likely mistyped your email address or your mail server is rejecting emails. In this case, please contact Paddle (our payment processor) with your payment details so they can help you look up your order number and resend your license.\nhttps://www.filebot.net/activate.html"
     },
     {
       "cmd": "plex",
