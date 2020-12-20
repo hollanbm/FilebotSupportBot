@@ -53,15 +53,15 @@
     },
     {
       "cmd": "blacklist",
-      "output": "Add Exclude Terms to Improve Movie / Series Auto-Detection:\nhttps://www.filebot.net/forums/viewtopic.php?t=359\n\nExclude Blacklist & Series-Mappings:\nhttps://www.filebot.net/forums/viewtopic.php?t=360"
+      "output": "Add Exclude Terms to Improve Movie / Series Auto-Detection: https://www.filebot.net/forums/viewtopic.php?t=359\nExclude Blacklist & Series-Mappings: https://www.filebot.net/forums/viewtopic.php?t=360"
     },
     {
       "cmd": "opensubtitles",
-      "output": "Set OpenSubtitles Account: https://www.filebot.net/forums/viewtopic.php?f=3&t=228"
+      "output": "Set OpenSubtitles Account: https://www.filebot.net/forums/viewtopic.php?t=228"
     },
     {
       "cmd": "beta",
-      "output": "Latest Beta Revisions and Release Candidates: https://www.filebot.net/forums/viewtopic.php?f=7&t=1609"
+      "output": "Latest Beta Revisions and Release Candidates: https://www.filebot.net/forums/viewtopic.php?t=1609"
     },
     {
       "cmd": "releasenotes",
@@ -73,7 +73,7 @@
     },
     {
       "cmd": "formats",
-      "output": "Format Expresssions: https://www.filebot.net/naming.html\nPredefined format expressions: https://www.filebot.net/forums/viewtopic.php?f=5&t=2"
+      "output": "Format Expresssions: https://www.filebot.net/naming.html\nExamples: https://www.filebot.net/forums/viewtopic.php?t=2"
     },
     {
       "cmd": "linux",
@@ -81,11 +81,11 @@
     },
     {
       "cmd": "ubuntu",
-      "output": "Debian package: https://www.filebot.net/forums/viewtopic.php?f=11&t=6028\nSNAP Package: https://www.filebot.net/forums/viewtopic.php?f=11&t=5984"
+      "output": "Debian package: https://www.filebot.net/linux/apt.html"
     },
     {
       "cmd": "debian",
-      "output": "Debian package: https://www.filebot.net/forums/viewtopic.php?f=11&t=6028\nSNAP Package: https://www.filebot.net/forums/viewtopic.php?f=11&t=5984"
+      "output": "Debian package: https://www.filebot.net/linux/apt.html"
     },
     {
       "cmd": "@file",
@@ -93,7 +93,7 @@
     },
     {
       "cmd": "cmdline",
-      "output": "Cmdline and argument passing: https://www.filebot.net/forums/viewtopic.php?t=1899"
+      "output": "Cmdline and argument passing: https://www.filebot.net/help/args.html"
     },
     {
       "cmd": "shelldebug",
@@ -101,7 +101,7 @@
     },
     {
       "cmd": "artwork",
-      "output": "Movie Artwork: https://www.filebot.net/forums/viewtopic.php?f=4&t=5#p205\nSeries Artwork: https://www.filebot.net/forums/viewtopic.php?f=4&t=5#p204"
+      "output": "Movie Artwork: https://www.filebot.net/forums/viewtopic.php?p=205#p205\nSeries Artwork: https://www.filebot.net/forums/viewtopic.php?p=204#p204"
     },
     {
       "cmd": "strict",
@@ -113,15 +113,15 @@
     },
     {
       "cmd": "evaluate",
-      "output": "How do I evaluate FileBot?: https://www.filebot.net/forums/viewtopic.php?t=11790"
+      "output": "How to evaluate FileBot: https://www.filebot.net/forums/viewtopic.php?t=11790"
     },
     {
       "cmd": "freetrial",
-      "output": "How do I evaluate FileBot?: https://www.filebot.net/forums/viewtopic.php?t=11790"
+      "output": "How to evaluate FileBot: https://www.filebot.net/forums/viewtopic.php?t=11790"
     },
     {
       "cmd": "revert",
-      "output": "Revert files via the internal History: https://www.filebot.net/forums/viewtopic.php?t=12133"
+      "output": "How to revert files: https://www.filebot.net/forums/viewtopic.php?t=12133"
     },
     {
       "cmd": "featurerequest",
@@ -133,19 +133,18 @@
     },
     {
       "cmd": "interactive",
-      "output": "Console-Interactive-Mode: https://www.filebot.net/forums/viewtopic.php?t=4398"
-    }
-    ,{
+      "output": "Console Interactive Mode: https://www.filebot.net/forums/viewtopic.php?t=4398"
+    },
+    {
       "cmd": "sysinfo",
-      "output": "GUI: Press F5 and click the infomation symbol\nCLI: `filebot -script fn:sysinfo`"
-    }
-    ,{
+      "output": "> GUI: Press `F5` and then click the ℹ️ information symbol\n> CLI: Call `filebot -script fn:sysinfo`\n📘 https://www.filebot.net/activate.html"
+    },
+    {
       "cmd": "abuse",
       "output": "License Error: Banned due to abuse: https://www.filebot.net/forums/viewtopic.php?t=9594"
-    }
-    ,{
+    },
+    {
       "cmd": "filter",
-      "output": "How to process only specific kinds of files?: https://www.filebot.net/forums/viewtopic.php?t=4222"
+      "output": "How to process only specific kinds of files: https://www.filebot.net/forums/viewtopic.php?t=4222"
     }
-    
 ]
