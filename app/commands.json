@@ -48,8 +48,12 @@
       "output": "Metadata and Extended Attributes: https://www.filebot.net/help/xattr.html"
     },
     {
-      "cmd": "batch",
+      "cmd": "plain",
       "output": "Plain File Mode: https://www.filebot.net/forums/viewtopic.php?t=2072"
+    },
+    {
+      "cmd": "presets",
+      "output": "Presets: https://www.filebot.net/forums/viewtopic.php?t=3228"
     },
     {
       "cmd": "blacklist",
