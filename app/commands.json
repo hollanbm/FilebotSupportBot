@@ -152,6 +152,10 @@
       "output": "How to process only specific kinds of files: https://www.filebot.net/forums/viewtopic.php?t=4222\n\n  --filter and fine-tuning: https://www.filebot.net/forums/viewtopic.php?t=2127"
     },
     {
+      "cmd": "anime",
+      "output": "Convert Absolute to SxE numbers: https://www.filebot.net/forums/viewtopic.php?t=2769"
+    },
+    {
       "cmd": "network",
       "output": "Use CloudFlare DNS: https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/windows"
     }
