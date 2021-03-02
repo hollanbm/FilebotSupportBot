@@ -158,5 +158,9 @@
     {
       "cmd": "network",
       "output": "Use CloudFlare DNS: https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/windows"
+    },
+    {
+      "cmd": "logs",
+      "output": "GUI: Press F5 to open the Groovy Pad and then press the :warning: Error Log button:\n`runScript 'logs'`\n\nCLI: `filebot -script fn:logs`"
     }
 ]
