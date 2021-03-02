@@ -161,6 +161,6 @@
     },
     {
       "cmd": "logs",
-      "output": "GUI: Press F5 to open the Groovy Pad and then press the :warning: Error Log button:\n`runScript 'logs'`\n\nCLI: `filebot -script fn:logs`"
+      "output": "GUI: Press F5 to open the Groovy Pad and then press the :warning: Error Log button: `runScript 'logs'`\n\nCLI: `filebot -script fn:logs`"
     }
 ]
