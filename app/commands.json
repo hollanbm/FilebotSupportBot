@@ -156,6 +156,10 @@
       "output": "Convert Absolute to SxE numbers: https://www.filebot.net/forums/viewtopic.php?t=2769"
     },
     {
+      "cmd": "remote",
+      "output": "> FileBot does parse file headers to read embedded media properties. This will be relatively fast since MediaInfo will only read the first few megabytes of each file, but if File I/O is expensive, then you'll want to configure FileBot to not parse embedded media properties at all.\n> Remote file systems typically do not support Extended Attributes so you'll want to configure FileBot to store metadata into a .xattr folder / plain file structure.\n📘 https://www.filebot.net/forums/viewtopic.php?t=12022"
+    },
+    {
       "cmd": "network",
       "output": "Use CloudFlare DNS: https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/windows"
     },
