@@ -160,6 +160,10 @@
       "output": "> Remote file systems typically do not support **Extended Attributes** so you'll want to configure FileBot to store metadata into a **.xattr folder / plain file** structure:\n```filebot -script fn:properties --def net.filebot.xattr.store=.xattr```\n📘 https://www.filebot.net/forums/viewtopic.php?t=12022"
     },
     {
+      "cmd": "mediainfo",
+      "output": "> FileBot uses MediaInfo Image to read properties like `{vc}`, `{ac}`, `{channels}`, `{resolution}`, etc from the container file. You can access any MediaInfo property directly via the `{general}`, `{video}`, `{audio}` and `{text}` bindings.\n📘 https://www.filebot.net/forums/viewtopic.php?t=4285"
+    },
+    {
       "cmd": "network",
       "output": "Use CloudFlare DNS: https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/windows"
     },
