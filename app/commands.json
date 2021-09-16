@@ -164,8 +164,8 @@
       "output": "> FileBot uses MediaInfo Image to read properties like `{vc}`, `{ac}`, `{channels}`, `{resolution}`, etc from the container file. You can access any MediaInfo property directly via the `{general}`, `{video}`, `{audio}` and `{text}` bindings.\n📘 https://www.filebot.net/forums/viewtopic.php?t=4285"
     },
     {
-      "cmd": "network",
-      "output": "Use CloudFlare DNS: https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/windows"
+      "cmd": "dns",
+      "output": "Use CloudFlare DNS: https://developers.cloudflare.com/1.1.1.1/setup-1.1.1.1/windows"
     },
     {
       "cmd": "logs",
