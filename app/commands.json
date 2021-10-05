@@ -40,6 +40,14 @@
       "output": "FAQ: https://www.filebot.net/manual.html"
     },
     {
+      "cmd": "move",
+      "output": "> Q: Q: Can it move files? Can it rename folders?\n📘 https://www.filebot.net/manual.html"
+    },
+    {
+      "cmd": "fix",
+      "output": "> Q: How do I fix misidentified files?\n📘 https://www.filebot.net/manual.html"
+    },
+    {
       "cmd": "synology",
       "output": "FileBot on Synology NAS: https://www.filebot.net/linux/syno.html"
     },
